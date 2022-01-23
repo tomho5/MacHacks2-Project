@@ -1,2 +1,3 @@
 Colab Link: https://colab.research.google.com/drive/1AJAbj8T2a_Fwnxquvs8SBW2ajwtrNzH6?usp=sharing
-Image File Drive Link: https://drive.google.com/drive/folders/18R6Td5Xqfr7nnqWiJlHQXZZvdMiiUB-8?usp=sharing
+Image File Drive Link: https://drive.google.com/drive/folders/1_tFEMKoW9mT6ptTA_FOZgV6Sj8kR4pMM?usp=sharing
+Saved Model: https://drive.google.com/drive/folders/1-G19ob7P_x1dN8K3NkYyyvWS1K9hSuLK?usp=sharing
