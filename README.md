@@ -1,2 +1,2 @@
-# MacHacks2-Project
+# MacHacks2-Environmental Project
 Project for MacHacks2 , tackling the environmental challenge, a project that detects whether a tree is healthy or has the emerald ash boar disease.
